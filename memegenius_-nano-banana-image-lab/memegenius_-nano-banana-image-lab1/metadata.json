@@ -1,7 +1,0 @@
-{
-  "name": "MemeGenius: Nano Banana Image Lab",
-  "description": "Transform movie stills into hilarious WhatsApp memes using Gemini 2.5 Flash Image. Edit backgrounds, apply retro filters, and modify characters with simple text prompts.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
